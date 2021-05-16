@@ -6,3 +6,7 @@
 
 
 Making  change pre-rebase
+
+## Getting Started 
+
+How to use bla bla bla
